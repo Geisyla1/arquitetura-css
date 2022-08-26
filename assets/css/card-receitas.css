@@ -44,3 +44,21 @@
     cursor: pointer;
     background: #620404;
 }
+
+@media screen  and(min-width:0){
+    .receita{
+
+    }
+}
+
+@media screen and(min-width:768px){
+    .receita{
+
+    }
+}
+
+@media screen and(min-width:992){
+    .receita{
+        
+    }
+}
